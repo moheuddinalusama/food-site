@@ -1,0 +1,47 @@
+
+.main{
+    display: flex;
+}
+
+.sign-up{
+    background-color: blanchedalmond;
+    padding: 15px;
+    width: 800px;
+    border-radius: 10px;
+justify-content: center;
+ 
+}
+.sign-up button{
+    background-color: #e60c92;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 0px;
+    color: #ffffff;
+    font-size: 30px;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+ul{
+    background-color: #e6c1d8;
+    height: 40px;
+    padding-top: 20px;
+}
+.filter{
+    width: 250px;
+    background-color: aqua;
+    padding: 10px;
+    align-self: self-start;
+}
+.Cuisines{
+    display: flex;
+ margin: 10px;
+
+}
+
+.Cuisines img{
+margin: 30px;
+width: 200px;
+height: auto;
+}
