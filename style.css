@@ -30,7 +30,7 @@ ul{
 }
 .filter{
     width: 250px;
-    background-color: aqua;
+    /* background-color: aqua; */
     padding: 10px;
     align-self: self-start;
 }
